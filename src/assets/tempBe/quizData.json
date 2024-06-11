@@ -1,0 +1,53 @@
+{
+    "questions": [
+      {
+        "question": "Do you enjoy watering plants?",
+        "answers": [
+          {"answer": "Yes, I like it very much", "weight": 5},
+          {"answer": "Maybe I do", "weight": 3},
+          {"answer": "I don't know", "weight": 2},
+          {"answer": "No, I don't", "weight": 1}
+        ]
+      },
+      {
+        "question": "Do you prefer small plants?",
+        "answers": [
+          {"answer": "Yes, I prefer small plants", "weight": 5},
+          {"answer": "Maybe", "weight": 3},
+          {"answer": "Not sure", "weight": 2},
+          {"answer": "No, I prefer larger plants", "weight": 1}
+        ]
+      },
+      {
+        "question": "How much sunlight can your plant get?",
+        "answers": [
+          {"answer": "Full sun", "weight": 5},
+          {"answer": "Partial sun", "weight": 4},
+          {"answer": "Indirect light", "weight": 3},
+          {"answer": "Low light", "weight": 2},
+          {"answer": "I'm not sure", "weight": 1}
+        ]
+      },
+      {
+        "question": "Which scent do you prefer?",
+        "answers": [
+          {"answer": "Lavender", "weight": 5},
+          {"answer": "Rosemary", "weight": 4},
+          {"answer": "Mint", "weight": 3},
+          {"answer": "Basil", "weight": 2},
+          {"answer": "Thyme", "weight": 1}
+        ]
+      },
+      {
+        "question": "Do you have a sunny spot for your plant?",
+        "answers": [
+          {"answer": "Yes, plenty of sunlight", "weight": 5},
+          {"answer": "Yes, some sunlight", "weight": 4},
+          {"answer": "No direct sunlight, but bright", "weight": 3},
+          {"answer": "Low light conditions", "weight": 2},
+          {"answer": "I'm not sure", "weight": 1}
+        ]
+      }
+    ]
+  }
+  
