@@ -18,7 +18,9 @@ const Navbar = () => {
     <nav>
       <div className="desktop">
         <div className="logo-wrapper">
-          <img src="src/assets/Logo.png" alt="Logo" />
+          <Link to="/">
+            <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZhXPyUrbK9AoXKppZ7fPjwyj7qVC5KOH7N3didNQWdq1eU8iFAyFg4LNDFNvEjTW-qew3GkzxJdXiFfNy2OZYhp3sFyq-VUE0=w958-h944" alt="Logo" />
+          </Link>
         </div>
         <ul>
           <Link className='link' to="/">
@@ -36,8 +38,9 @@ const Navbar = () => {
       <div className="mobile">
         <div className="outer">
           <div className="logo-wrapper">
-            <img src="src/assets/Logo.png" alt="Logo" />
-          </div>
+          <Link to="/">
+            <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZhXPyUrbK9AoXKppZ7fPjwyj7qVC5KOH7N3didNQWdq1eU8iFAyFg4LNDFNvEjTW-qew3GkzxJdXiFfNy2OZYhp3sFyq-VUE0=w958-h944" alt="Logo" />
+          </Link>          </div>
 
           <svg
             xmlns="http://www.w3.org/2000/svg"
