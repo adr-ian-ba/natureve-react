@@ -19,7 +19,7 @@ const Navbar = () => {
       <div className="desktop">
         <div className="logo-wrapper">
           <Link to="/">
-            <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZhXPyUrbK9AoXKppZ7fPjwyj7qVC5KOH7N3didNQWdq1eU8iFAyFg4LNDFNvEjTW-qew3GkzxJdXiFfNy2OZYhp3sFyq-VUE0=w958-h944" alt="Logo" />
+            <img src="https://github.com/adr-ian-ba/photo-host/blob/main/natureeve%20photo/WhatsApp_Image_2024-12-15_at_00.55.51_24c22579-removebg-preview.png?raw=true" alt="Logo" />
           </Link>
         </div>
         <ul>
@@ -39,7 +39,7 @@ const Navbar = () => {
         <div className="outer">
           <div className="logo-wrapper">
           <Link to="/">
-            <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZhXPyUrbK9AoXKppZ7fPjwyj7qVC5KOH7N3didNQWdq1eU8iFAyFg4LNDFNvEjTW-qew3GkzxJdXiFfNy2OZYhp3sFyq-VUE0=w958-h944" alt="Logo" />
+            <img src="https://github.com/adr-ian-ba/photo-host/blob/main/natureeve%20photo/WhatsApp_Image_2024-12-15_at_00.55.51_24c22579-removebg-preview.png?raw=true" alt="Logo" />
           </Link>          </div>
 
           <svg

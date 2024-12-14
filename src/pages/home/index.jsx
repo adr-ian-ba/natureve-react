@@ -11,7 +11,7 @@ const index = () => {
 
         <div className="hero-wrapper">
           <div className="img-wrapper">
-            <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihb3fBUPULQ_aaWwpLBujlJIgiNX3cgpPCl1CL4mjBCIL56kaQXOj_c9czIuTWinGXURIW5aUQiT_vMu4iims47xSbwYEu0_XA=w958-h944-rw-v1" alt="" />
+            <img src="https://github.com/adr-ian-ba/photo-host/blob/main/natureeve%20photo/ZVYF9gjpBgYrLnBunCg7GX.jpg?raw=true" alt="" />
           </div>
 
           <div className="info">
@@ -35,7 +35,7 @@ const index = () => {
           <div className="apakah-wrapper" >
 
             <div className="img-wrapper">
-              <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihbRP2Is1kS39PRrSkuN94zyxgPhjKjsnTvP1jzJVe7yQQ52TLAYXvnW9DHRswT13V2I7aFYeWcSMoMRktQuGu93nfakr0Gi4j0=w958-h944" alt="" />
+              <img src="https://github.com/adr-ian-ba/photo-host/blob/main/natureeve%20photo/ks5GkR0b6XiTontpvkVkyFFHsOtUjq5nZtIQS74I.jpg?raw=true" alt="" />
             </div>
 
             <div className="info">
@@ -56,17 +56,17 @@ const index = () => {
             <div className="wujudkan-wrapper">
 
               <div className="img-wrapper">
-                <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZJDVJ6P7pr5NLBbVvrJpt02H4kYMw52NwPuRqF83nhxrsT-OIu4Em027bWVBufm8E88-swjjklsxOBrlbFMq1uaYC9OLaZsg=w958-h944" alt="" />
+                <img src="https://github.com/adr-ian-ba/photo-host/blob/main/natureeve%20photo/5ec489c2ea6a8.jpg?raw=true" alt="" />
                 <h3>Beragam Pilihan Tanaman</h3>
               </div>
 
               <div className="img-wrapper">
-                <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihanF2FX2eBLUb39ROj_ytXywWUX2LtXy_XC9XQJkgdUwIR97PqBTGslI4sT3_DNOjQkXFllTQRFpmsyDxvIAazmbgq9tyeDVw=w958-h944" alt="" />
+                <img src="https://github.com/adr-ian-ba/photo-host/blob/main/natureeve%20photo/laptop.jpeg?raw=true" alt="" />
                 <h3>Pembelian yang mudah</h3>
               </div>
 
               <div className="img-wrapper">
-                <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihaIhNPQp3TWa3WypVIUs2RxmQisqwwf9RKpSxm4otRCnipaaE7zDHeSd907HTzMvfU4hpqf1erKmaLJ0Bgq1t2zjfO9_yfzheU=w958-h944-rw-v1" alt="" />
+                <img src="https://github.com/adr-ian-ba/photo-host/blob/main/natureeve%20photo/02cbe8c7fa5faa8f8ba0b4475009e911-man-gardening_l.jpg?raw=true" alt="" />
                 <h3>Bantuan Profesional</h3>
               </div>
             </div>
@@ -75,7 +75,7 @@ const index = () => {
 
         <div className="side">
           <div className="left">
-            <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihZiG5SaAEZEHePQrwLjlQe5ZT3cf1gAkR-1bGsYr43APmJE4OO9s199TcCdhKgHM6FASK_6edpfiIaX0IlPeZJX4vkrEEnsOrI=w958-h944" alt="" />
+            <img src="https://github.com/adr-ian-ba/photo-host/blob/main/natureeve%20photo/featured-image-23.jpg?raw=true" alt="" />
           </div>
           <div className="right">
             <h1>Beli Tanaman</h1>
@@ -89,7 +89,7 @@ const index = () => {
 
         <div className="side2">
           <div className="left">
-            <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihb8m4jwSjueyGix97YDNiP1IWTrDRgDWzm4MQWxUF4lJWiENNeyyd01WFeJN54etK-bVRtf09ZC7-OwXDXkN6kmFbPAaYWclC8=w958-h944-rw-v1" alt="" />
+            <img src="https://github.com/adr-ian-ba/photo-host/blob/main/natureeve%20photo/5cb6c-image-asset.jpeg?raw=true" alt="" />
           </div>
           <div className="right">
             <h1>Katalog Yang Luas</h1>
